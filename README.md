@@ -40,5 +40,5 @@ This is python practice for Machine Learning ,here i am define chapter by chapte
 
 # Tutorial 10 - Filter Functions In Python
 
- Updation in going Continue.... 
+# Updation in going Continue.... 
    
