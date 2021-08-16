@@ -23,4 +23,14 @@ This is python practice for Machine Learning ,here i am define chapter by chapte
    1. Sets
    2. Dictionaries¶
    3. Tuples
-  
+ 
+#  Tutorial 4 - Numpy and Inbuilt Functions Tutorial
+   1. Numpy Tutorials
+   2. indexing in numpy
+
+# Tutorial 5- Pandas, Data Frame and Data Series Part-1
+
+# Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2
+
+
+   
