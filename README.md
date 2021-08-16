@@ -1,7 +1,7 @@
 # Python-For-Machine-Leariing-
 This is python practice for Machine Learning ,here i am define chapter by chapter  python practice. 
 
-# Tutorial 1- Anaconda Installation and Python Basics
+# Tutorial 1- Python Basics
 1. Number
 2. String
 3. Variable Assignment
