@@ -32,5 +32,13 @@ This is python practice for Machine Learning ,here i am define chapter by chapte
 
 # Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2
 
+# Tutorial 7 - Python Functions, Positional and Keywords Arguments
 
+# Tutorial 8 - Python Lambda Functions    
+
+# Tutorial 9- Map Functions using Python
+
+# Tutorial 10 - Filter Functions In Python
+
+ Updation in going Continue.... 
    
